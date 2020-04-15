@@ -1,0 +1,13 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Service for scheduling meetings",
+  "main": "index.js",
+  "author": "Sargis Hovasapyan",
+  "license": "ISC",
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "csv-parser": "^2.3.2",
+    "date-and-time": "^0.12.0"
+  }
+}
